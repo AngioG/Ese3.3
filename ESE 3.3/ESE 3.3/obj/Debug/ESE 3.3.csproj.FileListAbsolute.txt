@@ -1,0 +1,10 @@
+C:\Users\angioletti\Desktop\Gabri\Scuola\superiori\Terza\Informatica\ESE 3.3\ESE 3.3\bin\Debug\ESE 3.3.exe.config
+C:\Users\angioletti\Desktop\Gabri\Scuola\superiori\Terza\Informatica\ESE 3.3\ESE 3.3\bin\Debug\ESE 3.3.exe
+C:\Users\angioletti\Desktop\Gabri\Scuola\superiori\Terza\Informatica\ESE 3.3\ESE 3.3\bin\Debug\ESE 3.3.pdb
+C:\Users\angioletti\Desktop\Gabri\Scuola\superiori\Terza\Informatica\ESE 3.3\ESE 3.3\obj\Debug\ESE 3.3.csprojAssemblyReference.cache
+C:\Users\angioletti\Desktop\Gabri\Scuola\superiori\Terza\Informatica\ESE 3.3\ESE 3.3\obj\Debug\ESE_3._3.Form1.resources
+C:\Users\angioletti\Desktop\Gabri\Scuola\superiori\Terza\Informatica\ESE 3.3\ESE 3.3\obj\Debug\ESE_3._3.Properties.Resources.resources
+C:\Users\angioletti\Desktop\Gabri\Scuola\superiori\Terza\Informatica\ESE 3.3\ESE 3.3\obj\Debug\ESE 3.3.csproj.GenerateResource.cache
+C:\Users\angioletti\Desktop\Gabri\Scuola\superiori\Terza\Informatica\ESE 3.3\ESE 3.3\obj\Debug\ESE 3.3.csproj.CoreCompileInputs.cache
+C:\Users\angioletti\Desktop\Gabri\Scuola\superiori\Terza\Informatica\ESE 3.3\ESE 3.3\obj\Debug\ESE 3.3.exe
+C:\Users\angioletti\Desktop\Gabri\Scuola\superiori\Terza\Informatica\ESE 3.3\ESE 3.3\obj\Debug\ESE 3.3.pdb
